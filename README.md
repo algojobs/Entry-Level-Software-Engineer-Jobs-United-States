@@ -6,12 +6,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 11/21/2024 | [Junior Software Engineer - INTEL - TS/SCI with POLY REQUIRED](https://algojobs.io/jobs/2324124) | [Serco North America](https://algojobs.io/company/sercous/) | $73K - $122K | MD-Columbia
-US-MD-Frederick
-US-MD-Aberdeen Proving Grounds
-US-MD-Andrews AFB
-US-MD
-US-VA, US / Aberdeen Proving Grounds, MD, US / VA, MD, US / ... |
+| 11/21/2024 | [Junior Software Engineer - INTEL - TS/SCI with POLY REQUIRED](https://algojobs.io/jobs/2324124) | [Serco North America](https://algojobs.io/company/sercous/) | $73K - $122K | MD-Columbia, US MD-Frederick, ... |
 | 11/21/2024 | [Junior HPC Software Engineer - INTEL – TS/SCI with POLY REQUIRED](https://algojobs.io/jobs/2324262) | [Serco North America](https://algojobs.io/company/sercous/) | $73K - $122K | VA, VA, US / Washington Navy Yard, DC, US / Aberdeen Proving Grounds, MD, US / ... |
 | 11/21/2024 | [Software Developer Applications Junior](https://algojobs.io/jobs/2445001) | [Brandes Associates Inc.](https://algojobs.io/company/brandesassociates/) | $77K - $95K | Point Mugu, CA, US |
 | 11/21/2024 | [Software Developer Applications Junior](https://algojobs.io/jobs/2445007) | [Brandes Associates Inc.](https://algojobs.io/company/brandesassociates/) | $77K - $95K | Point Mugu, CA, US |
